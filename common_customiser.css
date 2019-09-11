@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
+
+html * {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+html a {
+    text-decoration: none;
+}
+
+.main-body-placeholder {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.footer-warpper p {
+    margin:0;
+}
+
+.upper-footer {
+    background-color: #fbf9fa;
+}
+
+.upper-footer-container {
+    padding: 20px 25px;
+}
+
+.lower-footer {
+    background-color: #A7D49B;
+}
+
+.lower-footer-container {
+    padding: 15px 0px;
+    text-align: center;
+}
+
+.latestinfo-placeholder {
+    padding-top: 15px ;
+    padding-bottom: 15px ;
+}
+
+.accordion h2 {
+    line-height: 1;
+}
+
+.accordion .btn {
+    text-align: left;
+}
+
+.card-header {
+    padding: 0;
+}
+
+.index-intro-placeholder h1, h2, h3, h4, h5, h6{
+    margin-bottom: 0;
+}
+
+.footer_title {
+    font-size: 1.25rem;
+}
+img {
+    width: 95%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.index_ch4 {
+    margin: 0 2.5%;
+}
+
+.gmap_placeholder {
+    margin-top: 10px;
+}
+
+.container a {
+    text-decoration: none;
+}
+
+.card {
+    border: 1.25px solid rgba(0, 0, 0, 0.125);
+}
+
+.cal_placeholder {
+    display: block;
+    width: 322px;
+}
+
+@media only screen and (max-width: 600px) {
+.sp_hide {
+      display: none;
+    }
+  }
+
+@media only screen and (min-width: 600.1px) {
+.ws_hide {
+      display: none;
+    }
+  }
