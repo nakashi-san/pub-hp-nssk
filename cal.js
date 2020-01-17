@@ -30,7 +30,7 @@ calObj[0].xDaysLater[0] = 'Today'; // 0日後にTodayクラスを指定ってこ
 
 // 日付指定の場合はこちら
 // calObj[0].daysClass["1/1"] = 'Holyday;元日';
-
+calObj[0].daysClass["1/28"] = 'Holyday;定休日';
 
 // ["xDay"] 毎月○日のクラス指定
 calObj[0].xDays = new Array();
