@@ -20,8 +20,8 @@ calObj[0].daysClass = new Object();
 // 2012/6/9にBirthdayクラスを指定ってことね(和田の誕生日です)。
 // セミコロンで区切ると説明コメント、URLを付けることができます(全クラス指定共通)。
 // calObj[0].daysClass["6/9"] = 'Birthday;和田憲幸の誕生日だゾ☆<br />年を抜くと毎年。;http://weblogs.trancedive.com';
-calObj[0].daysClass["8/6"] = 'Holyday;定休日';
-calObj[0].daysClass["8/27"] = 'Holyday;定休日';
+calObj[0].daysClass["8/4"] = 'Holyday;定休日';
+calObj[0].daysClass["8/25"] = 'Holyday;定休日';
 
 
 // ["xDaysLater"] ○日後のクラス指定
